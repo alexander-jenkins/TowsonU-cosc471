@@ -1,0 +1,6 @@
+# Config Files
+.vscode/
+.idea/
+
+# macOS Files
+.DS_Store
